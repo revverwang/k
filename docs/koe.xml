@@ -3,10 +3,18 @@
   <id>urn:uuid:68063373-3ad6-50d8-8522-8cab8b779a7e</id>
   <title>Dan Koe · 双语专栏</title>
   <subtitle>future/proof 每周新文，本地模型逐段中英对照，每周五晚更新</subtitle>
-  <updated>2026-11-21T10:46:44Z</updated>
+  <updated>2026-11-27T12:03:52Z</updated>
   <author><name>Dan Koe</name></author>
   <link rel="self" href="https://revverwang.github.io/k/koe.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://revverwang.github.io/k/koe.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <entry>
+    <title>Dan Koe·双语专栏 2026-11-27</title>
+    <id>urn:uuid:42b19ca0-ad14-5aa3-be22-3dc4ef677475</id>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <author><name>Dan Koe</name></author>
+    <content type="text">EPUB · 367 KB · 中英对照</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://cdn.jsdelivr.net/gh/revverwang/bilingual-digest@main/docs/books/2026-11-27-Dan-Koe-Weekly.epub"/>
+  </entry>
   <entry>
     <title>Dan Koe·双语专栏 2026-11-21</title>
     <id>urn:uuid:b3ff0523-4bdb-59a6-98e6-de438b8added</id>
